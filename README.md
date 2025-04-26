@@ -1,65 +1,70 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20👋,%20I'm%20Steve&fontSize=40&fontColor=ffffff" alt="banner" />
-</div>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hallo+%F0%9F%91%8B%2C+ich+bin+Steve;DevOps+und+Programmier-Enthusiast;Praktikant+in+der+Softwareentwicklung;Immer+bereit+zu+lernen+und+zu+wachsen!">
+</p>
 
-<div align="center">
-
-### 🚀 DevOps Engineer | Cloud Enthusiast | Full Stack Explorer
-
-💻 Linux | 🐍 Python | 🛢️ MySQL | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🏗️ Golang | 🖥️ Web Development | 📈 Project Management
-
-</div>
+<!-- Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Willkommen%20auf%20meinem%20GitHub%20Profil!&fontSize=32&fontColor=ffffff&animation=twinkling"/>
+</p>
 
 ---
 
-## 🛠️ My Skills
+# 🌟 Über mich
 
-<div align="center">
-
-| DevOps & Cloud  | Programming  | Database  | Web Development  |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" width="50"/> <br> AWS | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/> <br> Python | <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50"/> <br> MySQL | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/> <br> HTML |
-| <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50"/> <br> Docker | <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" width="50"/> <br> GoLang |  | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/> <br> CSS |
-| <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="50"/> <br> Kubernetes |  |  | <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50"/> <br> JavaScript |
-
-</div>
+- 📚 Lerne aktuell **Python**, **C#**, **Cloud Technologien** & **DevOps**
+- 🛠️ Leidenschaft für **Automatisierung**, **Cloud-Infrastruktur** und **Softwareentwicklung**
+- 🚀 Immer neugierig auf neue Tools und Technologien
+- 🎯 Ziel: Fullstack- und DevOps-Kompetenzen perfektionieren!
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true)
-<br>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Learning
-- 🛠️ Kubernetes Operators and Helm Charts
-- 🔒 Cloud Security Best Practices
-- 🏗️ Building Scalable Systems with Go
-
----
-
-## 📫 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
+# 🚀 Technologien & Werkzeuge
 
 <div align="center">
   
-⚡ *"Automate everything, and if you can't — automate yourself to automate it!"*
+| DevOps & Cloud | Programmiersprachen | Webentwicklung | Datenbanken | Weitere Tools |
+|:--------------:|:-------------------:|:--------------:|:-----------:|:-------------:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
+
+---
+
+# 📈 GitHub Statistiken
+
+<div align="center">
+
+<a href="https://github.com/[Dein-GitHub-Name]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stevedev-01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevedev-01&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# ✉️ Kontakt
+
+<div align="center">
+  
+<a href="mailto:[deine.email@example.com]">
+  <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/[dein-linkedin-name]">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=150&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Danke für deinen Besuch! 🎉 Lass uns gemeinsam wachsen! 🚀</b>
+</p>
