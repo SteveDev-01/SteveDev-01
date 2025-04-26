@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hallo+%F0%9F%91%8B%2C+ich+bin+Steve;DevOps+und+Programmier-Enthusiast;Praktikant+in+der+Softwareentwicklung;Immer+bereit+zu+lernen+und+zu+wachsen!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hallo+%F0%9F%91%8B%2C+ich+bin+Steve;DevOps+und+Programmier-Enthusiast;Immer+bereit+zu+lernen+und+zu+wachsen!">
 </p>
 
 <!-- Wave Banner -->
