@@ -12,7 +12,7 @@
 
 # 🌟 Über mich
 
-- 📚 Lerne aktuell **Python**, **C#**, **Cloud Technologien** & **DevOps**
+- 📚 Lerne aktuell **Python**, **PHP**, **Cloud Technologien** & **DevOps**
 - 🛠️ Leidenschaft für **Automatisierung**, **Cloud-Infrastruktur** und **Softwareentwicklung**
 - 🚀 Immer neugierig auf neue Tools und Technologien
 - 🎯 Ziel: Fullstack- und DevOps-Kompetenzen perfektionieren!
